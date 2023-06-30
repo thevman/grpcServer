@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "C1meTpkcSzyHUsYcbQsH/wlOm+tNMHmUYbZ1waFYJrE=",
+  "Source": "Expenses.Grpc.Server",
+  "BasePath": "_content/Expenses.Grpc.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
